@@ -1,7 +1,7 @@
 # Projet 3A
-#Analyse data for C02
+Analyse data for C02
 
--find data
+-find data \n
 -understand data
 -suggest useful graph to take decision
 -explore map making https://www.pygal.org/en/stable/documentation/
