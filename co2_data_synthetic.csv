@@ -1,0 +1,193 @@
+year,country,iso3,region,co2_mt,population_m,gdp_billion_usd
+2000,France,FRA,Europe,400.6,59.41,1484.6
+2001,France,FRA,Europe,398.0,59.99,1552.0
+2002,France,FRA,Europe,397.5,60.2,1584.1
+2003,France,FRA,Europe,390.0,60.19,1613.8
+2004,France,FRA,Europe,386.5,60.33,1616.6
+2005,France,FRA,Europe,390.5,60.65,1619.0
+2006,France,FRA,Europe,388.0,60.74,1679.8
+2007,France,FRA,Europe,383.8,60.93,1792.4
+2008,France,FRA,Europe,378.7,61.39,1802.4
+2009,France,FRA,Europe,370.9,61.45,1863.6
+2010,France,FRA,Europe,373.6,61.74,1908.3
+2011,France,FRA,Europe,364.4,61.96,2005.9
+2012,France,FRA,Europe,357.9,62.33,2050.6
+2013,France,FRA,Europe,357.2,62.83,2150.3
+2014,France,FRA,Europe,352.3,63.21,2256.8
+2015,France,FRA,Europe,349.1,63.32,2270.5
+2016,France,FRA,Europe,356.7,63.62,2384.2
+2017,France,FRA,Europe,354.7,64.01,2529.0
+2018,France,FRA,Europe,360.1,63.82,2646.5
+2019,France,FRA,Europe,358.5,64.16,2620.7
+2020,France,FRA,Europe,358.4,64.77,2672.1
+2021,France,FRA,Europe,352.8,65.27,2769.8
+2022,France,FRA,Europe,352.3,65.61,2906.6
+2023,France,FRA,Europe,347.8,65.86,2908.7
+2000,Germany,DEU,Europe,822.9,82.41,2050.6
+2001,Germany,DEU,Europe,806.2,82.74,2079.2
+2002,Germany,DEU,Europe,806.6,83.62,2148.9
+2003,Germany,DEU,Europe,806.4,83.56,2212.2
+2004,Germany,DEU,Europe,825.5,83.93,2291.9
+2005,Germany,DEU,Europe,814.0,84.63,2395.1
+2006,Germany,DEU,Europe,811.3,85.41,2399.8
+2007,Germany,DEU,Europe,832.4,85.59,2444.6
+2008,Germany,DEU,Europe,827.5,85.62,2521.3
+2009,Germany,DEU,Europe,820.9,85.81,2675.1
+2010,Germany,DEU,Europe,810.2,86.45,2689.5
+2011,Germany,DEU,Europe,821.1,86.46,2780.1
+2012,Germany,DEU,Europe,828.1,86.57,2790.1
+2013,Germany,DEU,Europe,833.2,87.07,2893.2
+2014,Germany,DEU,Europe,827.7,87.58,2938.6
+2015,Germany,DEU,Europe,845.4,87.71,3065.4
+2016,Germany,DEU,Europe,841.9,88.45,3107.0
+2017,Germany,DEU,Europe,851.7,89.11,3318.1
+2018,Germany,DEU,Europe,841.8,89.32,3363.5
+2019,Germany,DEU,Europe,842.2,89.84,3520.1
+2020,Germany,DEU,Europe,852.6,90.22,3817.2
+2021,Germany,DEU,Europe,849.2,90.38,3968.5
+2022,Germany,DEU,Europe,851.4,90.96,4081.8
+2023,Germany,DEU,Europe,830.1,91.29,4274.1
+2000,United States,USA,North America,5629.8,283.56,10377.1
+2001,United States,USA,North America,5577.5,285.02,10451.2
+2002,United States,USA,North America,5618.3,287.38,10985.0
+2003,United States,USA,North America,5476.2,289.26,11427.4
+2004,United States,USA,North America,5713.1,291.2,12029.7
+2005,United States,USA,North America,5793.3,292.38,12573.2
+2006,United States,USA,North America,5723.4,293.41,12971.0
+2007,United States,USA,North America,5738.0,295.49,12941.8
+2008,United States,USA,North America,5761.5,297.02,13051.1
+2009,United States,USA,North America,5747.5,297.85,13499.1
+2010,United States,USA,North America,5701.5,301.26,14075.2
+2011,United States,USA,North America,5585.3,302.17,14737.5
+2012,United States,USA,North America,5523.3,304.14,15434.8
+2013,United States,USA,North America,5426.9,305.22,15696.1
+2014,United States,USA,North America,5534.9,305.59,16455.1
+2015,United States,USA,North America,5700.2,305.73,16789.4
+2016,United States,USA,North America,5720.6,307.67,17553.2
+2017,United States,USA,North America,5652.8,306.21,17720.2
+2018,United States,USA,North America,5556.1,309.24,17745.0
+2019,United States,USA,North America,5528.0,312.13,17767.7
+2020,United States,USA,North America,5581.8,312.77,18465.0
+2021,United States,USA,North America,5547.5,314.4,18876.6
+2022,United States,USA,North America,5580.5,317.47,18975.6
+2023,United States,USA,North America,5577.1,318.91,19768.1
+2000,China,CHN,Asia,3285.1,1265.51,1224.2
+2001,China,CHN,Asia,3391.4,1273.2,1243.9
+2002,China,CHN,Asia,3533.5,1282.67,1296.9
+2003,China,CHN,Asia,3592.3,1291.96,1351.6
+2004,China,CHN,Asia,3703.1,1303.37,1376.2
+2005,China,CHN,Asia,3828.0,1309.03,1447.7
+2006,China,CHN,Asia,4000.4,1320.71,1491.8
+2007,China,CHN,Asia,4137.8,1328.59,1532.6
+2008,China,CHN,Asia,4285.0,1331.98,1642.8
+2009,China,CHN,Asia,4331.6,1343.26,1718.1
+2010,China,CHN,Asia,4508.7,1349.93,1738.8
+2011,China,CHN,Asia,4625.7,1360.63,1785.8
+2012,China,CHN,Asia,4716.0,1369.12,1819.3
+2013,China,CHN,Asia,4826.5,1376.97,1855.4
+2014,China,CHN,Asia,4956.0,1377.87,1858.8
+2015,China,CHN,Asia,5062.2,1386.05,1969.4
+2016,China,CHN,Asia,5252.4,1392.9,1989.0
+2017,China,CHN,Asia,5399.7,1401.21,2015.8
+2018,China,CHN,Asia,5638.8,1407.76,2092.5
+2019,China,CHN,Asia,5834.1,1415.74,2155.8
+2020,China,CHN,Asia,5990.1,1422.93,2241.9
+2021,China,CHN,Asia,6287.4,1439.23,2274.8
+2022,China,CHN,Asia,6536.7,1455.88,2306.2
+2023,China,CHN,Asia,6658.7,1453.89,2351.2
+2000,India,IND,Asia,921.5,1056.33,533.8
+2001,India,IND,Asia,952.7,1058.76,555.0
+2002,India,IND,Asia,985.2,1067.8,566.5
+2003,India,IND,Asia,1010.1,1072.77,597.5
+2004,India,IND,Asia,1018.9,1078.15,616.0
+2005,India,IND,Asia,1050.5,1080.09,632.7
+2006,India,IND,Asia,1087.9,1087.8,637.4
+2007,India,IND,Asia,1115.3,1094.32,647.0
+2008,India,IND,Asia,1167.1,1103.66,667.3
+2009,India,IND,Asia,1242.0,1108.36,700.3
+2010,India,IND,Asia,1299.6,1110.69,730.9
+2011,India,IND,Asia,1336.5,1112.3,723.0
+2012,India,IND,Asia,1379.5,1122.88,745.8
+2013,India,IND,Asia,1430.9,1122.75,767.3
+2014,India,IND,Asia,1479.0,1121.4,789.0
+2015,India,IND,Asia,1510.1,1128.24,797.8
+2016,India,IND,Asia,1538.1,1133.67,837.0
+2017,India,IND,Asia,1573.6,1137.54,848.8
+2018,India,IND,Asia,1609.8,1141.34,854.0
+2019,India,IND,Asia,1690.1,1144.65,883.2
+2020,India,IND,Asia,1736.9,1152.48,923.1
+2021,India,IND,Asia,1774.6,1157.29,908.3
+2022,India,IND,Asia,1813.3,1168.79,931.0
+2023,India,IND,Asia,1880.9,1185.43,979.8
+2000,Brazil,BRA,South America,499.3,174.03,620.4
+2001,Brazil,BRA,South America,491.5,174.56,625.6
+2002,Brazil,BRA,South America,513.2,175.43,662.9
+2003,Brazil,BRA,South America,514.7,177.11,690.0
+2004,Brazil,BRA,South America,510.9,177.53,691.6
+2005,Brazil,BRA,South America,532.6,177.67,720.1
+2006,Brazil,BRA,South America,530.3,178.25,729.3
+2007,Brazil,BRA,South America,531.8,179.28,750.4
+2008,Brazil,BRA,South America,530.7,179.87,784.3
+2009,Brazil,BRA,South America,535.1,180.82,819.6
+2010,Brazil,BRA,South America,529.8,181.37,853.5
+2011,Brazil,BRA,South America,520.0,181.39,879.9
+2012,Brazil,BRA,South America,522.7,182.64,877.1
+2013,Brazil,BRA,South America,521.3,183.2,904.2
+2014,Brazil,BRA,South America,517.9,184.67,920.9
+2015,Brazil,BRA,South America,523.9,185.88,975.1
+2016,Brazil,BRA,South America,505.8,187.14,1000.4
+2017,Brazil,BRA,South America,510.6,188.12,1027.3
+2018,Brazil,BRA,South America,525.9,189.25,1049.7
+2019,Brazil,BRA,South America,525.2,190.42,1072.3
+2020,Brazil,BRA,South America,543.1,191.87,1097.5
+2021,Brazil,BRA,South America,556.3,191.66,1108.3
+2022,Brazil,BRA,South America,544.5,192.63,1178.7
+2023,Brazil,BRA,South America,551.5,194.07,1161.9
+2000,South Africa,ZAF,Africa,428.9,45.03,136.9
+2001,South Africa,ZAF,Africa,433.6,45.34,147.2
+2002,South Africa,ZAF,Africa,440.2,45.5,149.1
+2003,South Africa,ZAF,Africa,446.5,45.74,152.2
+2004,South Africa,ZAF,Africa,455.6,46.11,155.2
+2005,South Africa,ZAF,Africa,454.2,46.28,161.0
+2006,South Africa,ZAF,Africa,460.0,46.63,170.2
+2007,South Africa,ZAF,Africa,475.3,46.75,171.1
+2008,South Africa,ZAF,Africa,473.7,47.08,176.0
+2009,South Africa,ZAF,Africa,475.7,47.66,181.7
+2010,South Africa,ZAF,Africa,484.3,47.97,188.0
+2011,South Africa,ZAF,Africa,485.4,48.48,198.7
+2012,South Africa,ZAF,Africa,499.7,48.58,204.2
+2013,South Africa,ZAF,Africa,509.7,48.57,216.5
+2014,South Africa,ZAF,Africa,511.8,48.67,215.9
+2015,South Africa,ZAF,Africa,523.5,48.72,216.7
+2016,South Africa,ZAF,Africa,533.1,48.93,216.7
+2017,South Africa,ZAF,Africa,535.3,48.78,223.0
+2018,South Africa,ZAF,Africa,541.8,49.29,234.7
+2019,South Africa,ZAF,Africa,540.3,49.92,242.0
+2020,South Africa,ZAF,Africa,545.8,50.2,248.6
+2021,South Africa,ZAF,Africa,544.2,50.45,253.4
+2022,South Africa,ZAF,Africa,544.3,50.66,268.6
+2023,South Africa,ZAF,Africa,532.7,51.1,265.5
+2000,Australia,AUS,Oceania,376.5,19.01,405.8
+2001,Australia,AUS,Oceania,378.3,19.16,428.3
+2002,Australia,AUS,Oceania,375.9,19.23,445.3
+2003,Australia,AUS,Oceania,373.3,19.31,455.3
+2004,Australia,AUS,Oceania,376.9,19.39,479.5
+2005,Australia,AUS,Oceania,374.4,19.52,491.0
+2006,Australia,AUS,Oceania,370.1,19.67,503.9
+2007,Australia,AUS,Oceania,371.4,19.73,504.8
+2008,Australia,AUS,Oceania,367.2,19.75,537.7
+2009,Australia,AUS,Oceania,365.3,19.86,552.8
+2010,Australia,AUS,Oceania,364.1,19.96,581.5
+2011,Australia,AUS,Oceania,364.3,20.04,598.3
+2012,Australia,AUS,Oceania,358.2,20.06,625.2
+2013,Australia,AUS,Oceania,357.4,20.16,648.3
+2014,Australia,AUS,Oceania,351.8,20.27,655.0
+2015,Australia,AUS,Oceania,346.1,20.43,680.9
+2016,Australia,AUS,Oceania,350.0,20.64,715.1
+2017,Australia,AUS,Oceania,338.0,20.7,736.9
+2018,Australia,AUS,Oceania,336.3,20.82,747.9
+2019,Australia,AUS,Oceania,328.2,20.86,750.1
+2020,Australia,AUS,Oceania,328.4,20.91,812.1
+2021,Australia,AUS,Oceania,330.1,20.96,847.9
+2022,Australia,AUS,Oceania,328.0,21.22,871.7
+2023,Australia,AUS,Oceania,328.4,21.33,928.7
